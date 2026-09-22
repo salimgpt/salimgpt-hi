@@ -1,0 +1,32 @@
+{
+  "name": "SalimGPT — शोध-आधारित हिंदी डॉक्यूमेंट्री",
+  "short_name": "SalimGPT",
+  "description": "शोध, तथ्य-जांच और मौलिक प्रस्तुति के माध्यम से निर्मित हिंदी डॉक्यूमेंट्री प्लेटफ़ॉर्म।",
+  "lang": "hi-IN",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "categories": [
+    "education",
+    "entertainment",
+    "news"
+  ],
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/brand/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
